@@ -9,7 +9,7 @@ Mobile application where you can easily upload your videos and watch other's vid
 <img src="home_page.jpg" width="200"/> 
 
 ### Record Videos 
-<img src="allow_camera.jpg" width="200"/>  &emsp; <img src="allow_audio.jpg" width="200"/> &emsp;
+<img src="allow_camera.jpg" width="200"/>  &emsp; <img src="allow_audio.jpg" width="200"/> <br>;
 <img src="record.jpg" width="200"/> &emsp;  <img src="video_preview.jpg" width="200"/>
 
 ### Fill Detail with fetch current location feature
