@@ -74,14 +74,9 @@ class _HomeState extends State<Home> {
         ],
       ),
       body: Center(
-        child: Column(
-          children: [
-            ElevatedButton(
-                child: Text('Refresh'),
-                onPressed: () {
-                  _refresh();
-                }),
-            Expanded(
+        child: RefreshIndicator(
+          onRefresh: _refresh,
+           child:Expanded(
               child: FutureBuilder(
                 future: _loadVideos(),
                 builder: (context,
@@ -133,7 +128,6 @@ class _HomeState extends State<Home> {
                 },
               ),
             ),
-          ],
         ),
       ),
       floatingActionButtonLocation: FloatingActionButtonLocation.centerDocked,
