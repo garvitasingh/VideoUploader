@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4313963483",
+    "project_id": "video-player-2d29e",
+    "storage_bucket": "video-player-2d29e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4313963483:android:402625ec61677fcc5565fe",
+        "android_client_info": {
+          "package_name": "com.example.phone_auth_video"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4313963483-qfc9uj5dmbmu8aiu400kv8vkvp037gnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbuy8CyhXlvRmeofXxpXZL6CfWjJZJ47Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4313963483-qfc9uj5dmbmu8aiu400kv8vkvp037gnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
